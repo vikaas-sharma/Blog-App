@@ -44,4 +44,4 @@ app.listen(PORT, () => {
     Server Running on ${process.env.DEV_MODE} mode port no ${PORT}.bgCyan
       .white
   );
-}); 
+});
